@@ -10,3 +10,8 @@ def multiply(n, m):
 
 multiplication = multiply(5,5)
 print(multiplication)
+
+def divide(n, m):
+    return n // m
+
+print(divide(4,2))

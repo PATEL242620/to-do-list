@@ -8,3 +8,8 @@ def decremntCount():
         counter -= 1
 
     return counter
+
+def divide(n, m):
+    return n // m
+
+print(divide(4,2))
